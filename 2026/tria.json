@@ -1,0 +1,13 @@
+{
+  "name": "Tria",
+  "url": "https://tria.lyn.cat/en?utm_source=indiegoodies&utm_medium=referral&utm_campaign=tria-blackfriday",
+  "description": "Native Mac app that names and files your documents with AI, following rules you write in plain language",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "50% off the one-time unlock",
+  "pricing": "one-time",
+  "price": { "regular": 9.99, "sale": 4.99, "currency": "EUR" },
+  "discount": 50,
+  "startDate": "2026-11-27",
+  "endDate": "2026-11-30"
+}
